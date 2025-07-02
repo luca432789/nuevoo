@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Persona():
     nombre=""
     edad=0
@@ -79,3 +78,4 @@ while True:
             
 
 # jjjjjj
+# aaaaaaa
